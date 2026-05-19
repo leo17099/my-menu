@@ -1,0 +1,17 @@
+{
+  "shopName": "我的私房菜",
+  "categories": [
+    {
+      "name": "招牌菜",
+      "dishes": [
+        {
+          "id": 1,
+          "name": "三杯鸡",
+          "image": "images/san-bei-ji.jpg",
+          "description": "",
+          "price": ""
+        }
+      ]
+    }
+  ]
+}
