@@ -10,6 +10,13 @@
           "image": "images/san-bei-ji.jpg",
           "description": "",
           "price": ""
+        },
+        {
+          "id": 2,
+          "name": "香煎鸡胸肉",
+          "image": "images/jian-ji-xiong.jpg",
+          "description": "",
+          "price": ""
         }
       ]
     }
